@@ -20,6 +20,7 @@ const {
     ID
 */
 
+
 const Person = new GraphQLObjectType({
     name: 'Person',
     description: 'Represent a person',
